@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "snake_env/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
